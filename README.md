@@ -1,4 +1,4 @@
-# 🎨 Code-to-Image Converter with React.js and Next.js 🚀
+# Code-to-Image Converter with React.js and Next.js 🚀
 
 Welcome to my interactive web application built with React.js and Next.js! This powerful tool allows users to effortlessly convert code snippets into stunning images. Whether you're a developer showcasing your work or a learner documenting your code journey, this application offers a seamless experience.
 
